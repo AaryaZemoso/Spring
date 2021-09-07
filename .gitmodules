@@ -1,0 +1,12 @@
+[submodule "SpringMVC"]
+	path = SpringMVC
+	url = https://github.com/AaryaZemoso/SpringMVC
+[submodule "Spring-Security"]
+	path = Spring-Security
+	url = https://github.com/AaryaZemoso/Spring-Security
+[submodule "Spring-AOP"]
+	path = Spring-AOP
+	url = https://github.com/AaryaZemoso/Spring-AOP
+[submodule "Spring-Web-App"]
+	path = Spring-Web-App
+	url = https://github.com/AaryaZemoso/Spring-Web-App
