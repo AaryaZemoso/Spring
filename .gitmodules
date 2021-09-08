@@ -10,3 +10,6 @@
 [submodule "Spring-Web-App"]
 	path = Spring-Web-App
 	url = https://github.com/AaryaZemoso/Spring-Web-App
+[submodule "Spring-REST"]
+	path = Spring-REST
+	url = https://github.com/AaryaZemoso/Spring-REST
