@@ -13,3 +13,6 @@
 [submodule "Spring-REST"]
 	path = Spring-REST
 	url = https://github.com/AaryaZemoso/Spring-REST
+[submodule "Spring-Boot"]
+	path = Spring-Boot
+	url = https://github.com/AaryaZemoso/Spring-Boot
